@@ -48,8 +48,6 @@ The magic of this project lies in a small JavaScript function.
 <p>
   <a href="https://www.instagram.com/aditya_patil_0122/">Instagram</a>
 </p>
-  
-     
 <p>
-   <a herf="https://www.linkedin.com/in/aditya-patil-497b3224b/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/aditya-patil-497b3224b/"> My LinkedIn</a>
 </p>
