@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="[PASTE YOUR GITHUB PAGES LIVE DEMO LINK HERE]"><strong>➥ Try the Live Demo</strong></a>
+  <a href="https://adityapatil0122.github.io/Funny-dating-website/"><strong>➥ Try the Live Demo</strong></a>
 </p>
 
 ---
@@ -46,5 +46,5 @@ The magic of this project lies in a small JavaScript function.
 ### 👤 Connect with me:
 
 <p>
-  <a href="https://www.instagram.com/aditya_patil___0122/">Instagram</a>
+  <a href="https://www.instagram.com/aditya_patil_0122/">Instagram</a>
 </p>
